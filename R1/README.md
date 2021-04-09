@@ -1,7 +1,7 @@
 Custom arduino:
 -------------------
 This is a custom Arduino whit some extra features and while some of them are unnecessary some can be helpfull for quick deployment of soultions and reducing wires while prototyping.
-This project is completly open source and the only thing I ask for if you sue it or like it is your feedback.
+This project is completly open source and the only thing I ask for is feedback.
 
 Repository Contents:
 -------------------
