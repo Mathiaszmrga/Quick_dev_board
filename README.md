@@ -1,3 +1,8 @@
+Custom arduino:
+-------------------
+This is a custom Arduino whit some extra features and while some of them are unnecessary some can be helpfull for quick deployment of soultions and reducing wires while prototyping.
+This project is completly open source and the only thing I ask for if you sue it or like it is your feedback.
+
 Repository Contents:
 -------------------
 * **FeedBack** - Notes about the board, feel free to commit any suggestions here.
@@ -7,20 +12,20 @@ Repository Contents:
 Product Features:
 ----------------
 **R1:** _**Ready for production**_
--	ATmega32U4 running at 5V/16MHz.
--	Supported in the Arduino IDE.
--	On-Board reversible USB-C connector for programming and power.
--	9x 10-bit ADC pins
--	12x Digital I/Os (5 are PWM capable).
--	Rx and Tx Hardware Serial Connections
--	Integrated reset button.
--	5 to 9V input voltage range.
--	Stackable female headers.
--	Fits a standard breadboard.
--	Dedicated XH-2A (grove) power input.
--	Toggable Pull-up/Pull-Down/No integrated resistors in all digital pins.
--	Builtin NEOPIXEL
--	Extra power pins:
+ - ATmega32U4 running at 5V/16MHz.
+ - Supported in the Arduino IDE.
+ - On-Board reversible USB-C connector for programming and power.
+ - 9x 10-bit ADC pins
+ - 12x Digital I/Os (5 are PWM capable).
+ - Rx and Tx Hardware Serial Connections
+ - Integrated reset button.
+ - 5 to 9V input voltage range.
+ - Stackable female headers.
+ - Fits a standard breadboard.
+ - Dedicated XH-2A (grove) power input.
+ - Toggable Pull-up/Pull-Down/No integrated resistors in all digital pins.
+ - Builtin NEOPIXEL
+ - Extra power pins:
 	* 3x 5V.
 	* 3x 3V3.
 	* 3x GND.
@@ -28,4 +33,4 @@ Product Features:
 License Information:
 -------------------
 This product is open source, no warranty is given.
-Feel free to contrubute and add to the project.
+Feel free to contribute and add to the project.

@@ -1,11 +1,13 @@
-Repository Contents:
+R1:
 -------------------
-* **Board_Outline** - PCB outline file/s (.DXF in mm)
-* **WIP** - EasyEDA schematics in development
+Directory contents:
+-------------------
+* **EasyEDA** - Source files for the schematic and PCB
+* **FabFiles** - Fabrication files for the PCB and SMT asambly
 
 Product Features:
 ----------------
-**R1:** _**Under development:**_
+**R1:** _**Ready as a prototype**_
 -	ATmega32U4 running at 5V/16MHz.
 -	Supported in the Arduino IDE.
 -	On-Board reversible USB-C connector for programming and power.
