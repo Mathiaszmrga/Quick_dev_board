@@ -1,11 +1,12 @@
 Repository Contents:
 -------------------
-* **Board_Outline** - PCB outline file/s (.DXF in mm)
-* **WIP** - EasyEDA schematics in development
+* **FeedBack** - Notes about the board, feel free to commit any suggestions here.
+* **R1** - Files for the 1st revision of the board.
+* **WIP** - Boards, shields, etc under development.
 
 Product Features:
 ----------------
-**R1:** _**Under development:**_
+**R1:** _**Ready for production**_
 -	ATmega32U4 running at 5V/16MHz.
 -	Supported in the Arduino IDE.
 -	On-Board reversible USB-C connector for programming and power.
@@ -27,3 +28,4 @@ Product Features:
 License Information:
 -------------------
 This product is open source, no warranty is given.
+Feel free to contrubute and add to the project.
