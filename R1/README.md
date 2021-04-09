@@ -1,5 +1,7 @@
 R1:
 -------------------
+Huge thanks to tn2020c for his support and contribution to the project
+
 Directory contents:
 -------------------
 * **EasyEDA** - Source files for the schematic and PCB
