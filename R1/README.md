@@ -5,9 +5,9 @@ This project is completly open source and the only thing I ask for is feedback.
 
 Repository Contents:
 -------------------
-* **FeedBack** - Notes about the board, feel free to commit any suggestions here.
-* **R1** - Files for the 1st revision of the board.
-* **WIP** - Boards, shields, etc under development.
+* **EasyEDA** - Sopurce files (schematic and PCB).
+* **FabFiles** - Fabrication files for the R1.
+* **imgs** - Images of the board.
 
 Product Features:
 ----------------
