@@ -25,10 +25,7 @@ Product Features:
  - Dedicated XH-2A (grove) power input.
  - Toggable Pull-up/Pull-Down/No integrated resistors in all digital pins.
  - Builtin NEOPIXEL
- - Extra power pins:
-	* 3x 5V.
-	* 3x 3V3.
-	* 3x GND.
+ - Extra power pins, both 5 and 3v
 
 License Information:
 -------------------
