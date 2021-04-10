@@ -3,6 +3,7 @@ Custom arduino:
 This is a custom development board based on the Arduino pro, uno and pro micro with some aditional features no present in those boards, and while some of them are unnecessary some can be helpfull for quick deployment of soultions and reducing wires while prototyping.
 This project is completly open source and the only thing I ask for is feedback.
 
+![](/R1/imgs/board_img.PNG)
 ![](/R1/imgs/PCB_img.PNG)
 
 Repository Contents:
