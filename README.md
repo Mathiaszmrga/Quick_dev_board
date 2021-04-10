@@ -1,4 +1,4 @@
-Custom arduino:
+Arduino like development board:
 -------------------
 This project is completly open source and the only thing I ask for is your feedback.
 
