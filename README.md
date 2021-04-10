@@ -30,3 +30,7 @@ License Information:
 -------------------
 This product is open source, no warranty is given.
 Feel free to contribute and add to the project.
+
+General Info:
+-------------------
+The parts for the project where sourced from https://lcsc.com/ and the pcb was manufactured and assembled by https://jlcpcb.com/
