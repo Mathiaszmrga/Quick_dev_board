@@ -45,8 +45,8 @@ R1 Know Issues as of commit:
 	 - Improve SilkLayer.
 	 - Fix GND net.
 	 - Change SilkLayer board name to "Quick Dev R2".
-	 
-	 Suggested pin arrangement:
+	
+Suggested pin arrangement for R2:
 ![](/R1/imgs/pinarrangment.png)
 
 License Information:
