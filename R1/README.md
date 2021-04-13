@@ -14,7 +14,7 @@ Repository Contents:
 
 Product Features:
 ----------------
-**R1:** _**Ready for production**_
+**R1:** _**With major issues / under DEV**_
  - ATmega32U4 running at 5V/16MHz.
  - Supported in the Arduino IDE.
  - On-Board reversible USB-C connector for programming and power.
