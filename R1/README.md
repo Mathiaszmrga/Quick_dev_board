@@ -47,7 +47,7 @@ R1 Know Issues as of commit:
 	 - Change SilkLayer board name to "Quick Dev R2".
 	 
 	 Suggested pin arrangement:
-![](/R1/imgs/pinarrangment.PNG)
+![](/R1/imgs/pinarrangment.png)
 
 License Information:
 -------------------
