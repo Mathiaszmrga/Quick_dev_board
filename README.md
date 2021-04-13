@@ -6,6 +6,7 @@ Repository Contents:
 -------------------
 * **FeedBack** - Notes about the board, feel free to commit any suggestions here.
 * **R1** - Files for the 1st revision of the board.
+* **R2** - WIP.
 * **WIP** - Boards, shields, etc under development.
 
 Product Features:
