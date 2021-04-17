@@ -47,5 +47,5 @@ Suggested pin arrangement for R2:
 License Information:
 -------------------
 This product is open source, no warranty is given.
-Feel free to contribute and add to the project.
+Feel free to help.
 
