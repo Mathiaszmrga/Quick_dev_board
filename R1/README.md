@@ -31,18 +31,6 @@ Product Features:
  - Toggable Pull-up/Pull-Down/No integrated resistors in all digital pins.
  - Builtin NEOPIXEL
  - Extra power pins, both 5 and 3v
- 
-R1 refinement:
-----------------
- - For ease of use and acording to the docs it should be on pin D6.
- - There's no way to disconnect the LED, a switch must be added for R2.
- - Theres no Dout for the LED. signal out pin should be added for R2.
- - Arrangment of pins could be better.
- - Pin 7 and 8 are not connected.
-
-	
-Suggested pin arrangement for R2:
-![](/R1/imgs/pinarrangment.png)
 
 License Information:
 -------------------
