@@ -14,4 +14,10 @@ Product Features:
 ![](/R2/imgs/R2_pins.png)
  - Adding a switch to toggle data input to the neoopixel and allow for switching between standard pin use and neopixel use
 ![](/R2/imgs/R2_pxsw.png)
- - Reaplcing some components for ones with better performance or availability, both for [SMT](https://jlcpcb.com/parts) and [order.](https://lcsc.com/)
+ - Replacing some components for ones with better performance or availability, both for [SMT](https://jlcpcb.com/parts) and [order](https://lcsc.com/):
+These components have been discontinued by LCSC.com, however they're available trough JLCPCB SMT extended parts, for better support all parts used should be available and in stock both in LCSC and JLCPCB, the ones below are just an example:
+
+	 - [LCSC.Part #: C2286 - Discontinued](https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Hubei-KENTO-Elec-KT-0603R_C2286.html)
+	 - [LCSC.Part #: C114583 - Discontinued](https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_3535-RGBIntegrated-Light_C114583.html)
+	 - [LCSC.Part #: C2296 - Discontinued](https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Yellow-light-0805-Highlighted_C2296.html)
+	 - [LCSC.Part #: C2296 - Discontinued](https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Yellow-light-0805-Highlighted_C2296.html)
