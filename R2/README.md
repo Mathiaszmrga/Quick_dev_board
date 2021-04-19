@@ -1,18 +1,14 @@
-Under Development:
+Quick dev board R2:
 -------------------
+The 2nd revision of the Quicm dev board, currently under development.
 
-Fixing issues present on R1:
- - Issues with neopixel (WS2812B-Mini):
-    - For ease of use and acording to the docs it should be on pin D6.
-	 - There's no way to disconnect the LED, a switch must be added for R2.
-	 - Theres no Dout for the LED. signal out pin should be added for R2.
- - Pin issues:
-	 - Arrangment of pins could be better.
-	 - Pin 7 and 8 are not connected.
- - Genreal issues:
-	 - Improve SilkLayer.
-	 - Fix GND net.
-	 - Change SilkLayer board name to "Quick Dev R2".
-	
-Suggested pin arrangement for R2:
-![](/R1/imgs/pinarrangment.png)
+Repository Contents:
+-------------------
+* **imgs** - Images of the board.
+
+Product Features:
+----------------
+**R2 Changes and fixes:**
+ -   New pin arrangment to fix empty pins and odd arrangment of the R1:
+![](/R2/imgs/R2_pins.png)
+
