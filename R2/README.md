@@ -4,7 +4,7 @@ The 2nd revision of the Quick dev board, currently under development.
 
 Repository Contents:
 -------------------
-* **imgs** - Images of the board.
+* **R2_WIP** - R2 WIP source files.
 
 Product Features:
 ----------------
