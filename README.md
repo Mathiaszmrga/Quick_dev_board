@@ -7,6 +7,7 @@ Repository Contents:
 * **FeedBack** - Notes about the board, feel free to commit any suggestions here.
 * **R1** - Files for the 1st revision of the board.
 * **R2** - Files for the 2nd revision of the board.
+* **WIP** - Files currently under development.
 
 Product Features:
 ----------------
