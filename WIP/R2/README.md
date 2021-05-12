@@ -19,7 +19,7 @@ Product Features:
  - Update silk layer.
  - Adding a switch to toggle data input to the neoopixel and allow for switching between standard pin use and neopixel use.
  - Replacing some components for ones with better performance or availability.
- - Remove pullup/pulldown switches.
+ - Remove pullup switches.
  
 **Extra features:**
  - Built in lipo charge circuit.
