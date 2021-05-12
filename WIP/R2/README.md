@@ -22,4 +22,4 @@ Product Features:
 
 **Extra features:**
  - Built in lipo charge circuit.
- - considerremoving pullup/down switches?.
+ - Built in micro sd card reader.
