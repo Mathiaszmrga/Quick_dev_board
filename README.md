@@ -4,11 +4,9 @@ This project is completly open source and the only thing I ask for is your feedb
 
 Repository Contents:
 -------------------
-* **FeedBack** - Notes about the board. Feel free to commit here.
+* **FeedBack** - Notes about the board.
 * **R1** - Files for the 1st revision of the board (do not make commits here).
-* **R2** - Files for the 2nd revision of the board **Currently under development** (do not make commits here).
-* **WIP** - Files currently under development. Feel free to commit here.
-
+* **WIP** - Files currently under development.
 Product Features:
 ----------------
 **R1:** _**Ready for production**_
