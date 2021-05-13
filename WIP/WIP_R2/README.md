@@ -6,7 +6,8 @@ The 2nd revision of the Quick dev board,
 
 Repository Contents:
 -------------------
-* **WIP_R2** - Development of the R2.
+* **EasyEDA_R2** - Schematic and PCB files for the R2.
+* **imgs_R2** - Reference images.
 
 Product Features:
 ----------------
