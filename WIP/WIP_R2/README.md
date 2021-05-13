@@ -20,3 +20,6 @@ Product Features:
 	 - Single 8 pin dipswitch for pull up/down on pins 2, 3, 4 and 5.
  - Update silk layer to new pins.
  - Replacing some components for ones in stock and available in LCSC and JLCPCB SMT.
+
+**Keep from R1:**
+ - VCC/GND/3V3 pins.
