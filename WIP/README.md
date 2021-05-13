@@ -6,7 +6,6 @@ The 2nd revision of the Quick dev board,
 
 Repository Contents:
 -------------------
-* **Base_files** - Base files for the R2 (do not make changes here).
 * **WIP_R2** - Development of the R2.
 
 Product Features:
